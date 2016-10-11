@@ -38,7 +38,7 @@ motor_shaft_flatted = true;  // Is motor shaft keyed? (RECOMMENDED)
 // Currently configured for 3/8" ACME threaded rod.
 lifter_rod_diam     =   9.5;   // mm
 lifter_rod_length   = 300.0;   // mm
-lifter_rod_pitch    =   3.175; // mm lift per revolution
+lifter_rod_pitch    =   3.0; // mm lift per revolution
 
 // Mechanical endstop bare microswitch.
 endstop_hole_spacing =  9.5; // mm
@@ -117,7 +117,7 @@ filament_diam        =   1.75; // mm
 // This is the slop needed to make parts fit more exactly, and might be
 // printer dependant.  Printing a slop calibration plate should help
 // dial this setting in for your printer.
-printer_slop =   0.25;  // mm
+printer_slop =   0.15;  // mm
 gear_backlash = printer_slop/2;
 
 
