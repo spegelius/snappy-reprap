@@ -67,8 +67,10 @@ glass_thick     =   3;   // mm
 cable_chain_height = 13;  // mm
 cable_chain_width  = 25;  // mm
 cable_chain_length = 26;  // mm
-cable_chain_pivot  =  6;  // mm
-cable_chain_bump   =  1;  // mm
+cable_chain_pivot  =  5;  // mm
+cable_chain_bump   =  1.5;  // mm
+//cable_chain_pivot  =  6;  // mm
+//cable_chain_bump   =  1;  // mm
 cable_chain_wall   =  3;  // mm
 
 spool_holder_length = 140.0;  // mm
